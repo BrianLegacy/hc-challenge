@@ -1,0 +1,51 @@
+body{
+    color:white;
+    background-color: black;
+}
+  
+
+  .rec1 {
+    height:370px;
+    width: 750px;
+    margin:9% 7%;
+    display: flex;
+    flex-direction: row;
+    background-color:rgb(14, 43, 70);
+  }
+
+  .extra{
+display: flex;
+flex-direction: row;
+  }
+
+  .extra-1{
+      margin: 5% 5%;
+  }
+
+  .extra2{
+    margin: 20px;
+}
+
+.extra3{
+    margin: 20PX;
+}
+
+  
+
+  .art {
+    
+    padding: 1px 30px 20px 30px;
+  }
+
+  .img{
+      margin: 0px 0px 0px 0px;
+      background-color: rgb(133, 91, 179);
+  }
+
+  img{
+      mix-blend-mode: multiply;
+  }
+
+  span{
+    color: rgb(133, 91, 179);
+}
